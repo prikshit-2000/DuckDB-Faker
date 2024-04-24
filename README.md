@@ -1,4 +1,4 @@
-# DuckDB-Faker
+# DuckDB-Faker 🦆🦆
 
 
 This repo will help you to explore the faker module in python and along with that we will be going to see a spark of power that duckdb has.
